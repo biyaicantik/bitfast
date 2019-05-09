@@ -1,6 +1,5 @@
 <?php 
 set_time_limit(0);
-date_default_timezone_set('Asia/Jakarta');
 error_reporting(0);
 function get_between($string, $start, $end) {
     $string = " ".$string;
@@ -90,10 +89,8 @@ print"\e[0;32m
 print"\e[1;34m[#INFO]\e[0m \e[1;33mPembuat Cornelius Alfredo | Support By #SaveReceh Channel \e[0m\r\n";
 print"\e[1;34m[#INFO]\e[0m \e[1;33mBot BitFast\e[0m\r\n";
 print"\e[1;34m[#INFO]\e[0m \e[1;33mJangan Lupa Senyum Hari Ini\e[0m\r\n\r\n";
-exec("termux-open-url https://t.me/joinchat/AAAAAFUgvj3E7Wy6S32uQg");
 echo 'Masukkan Email : '; 
 $email = trim(fgets(STDIN));
-exec("termux-open-url https://www.youtube.com/channel/UC2dUZ1YCv2LeKWplJdlWS3w");
 echo 'Masukkan Password : '; 
 $password = trim(fgets(STDIN)); 
 $login = login($email,$password);
