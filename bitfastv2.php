@@ -1,1 +1,118 @@
-<?php /*** PHP Encode v1.0 by zeura.com ***/ $XnNhAWEnhoiqwciqpoHH=file(__FILE__);eval(base64_decode("aWYoIWZ1bmN0aW9uX2V4aXN0cygiWWl1bklVWTc2YkJodWhOWUlPOCIpKXtmdW5jdGlvbiBZaXVuSVVZNzZiQmh1aE5ZSU84KCRnLCRiPTApeyRhPWltcGxvZGUoIlxuIiwkZyk7JGQ9YXJyYXkoNjU1LDIzNiw0MCk7aWYoJGI9PTApICRmPXN1YnN0cigkYSwkZFswXSwkZFsxXSk7ZWxzZWlmKCRiPT0xKSAkZj1zdWJzdHIoJGEsJGRbMF0rJGRbMV0sJGRbMl0pO2Vsc2UgJGY9dHJpbShzdWJzdHIoJGEsJGRbMF0rJGRbMV0rJGRbMl0pKTtyZXR1cm4oJGYpO319"));eval(base64_decode(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH)));eval(ZsldkfhGYU87iyihdfsow(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,2),YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,1)));__halt_compiler();aWYoIWZ1bmN0aW9uX2V4aXN0cygiWnNsZGtmaEdZVTg3aXlpaGRmc293Iikpe2Z1bmN0aW9uIFpzbGRrZmhHWVU4N2l5aWhkZnNvdygkYSwkaCl7aWYoJGg9PXNoYTEoJGEpKXtyZXR1cm4oZ3ppbmZsYXRlKGJhc2U2NF9kZWNvZGUoJGEpKSk7fWVsc2V7ZWNobygiRXJyb3I6IEZpbGUgTW9kaWZpZWQiKTt9fX0=213984eaf505435e47f36ca4b10c396c557ef7e57VhtU9tIEv68qcp/6NJSa3vXkmwMJGuHVBnHBBKDOWyO3YOUayy1rQmSRjsaYZPAf78evTg2axaou1zV1Z1svfV093RPdz8zoxjVSPEARz4PuCrXKq2XL1ymcOTihCV+1vhFhDiKUZVL7Zgz+wO7YlKxkuZFKYUcSYyEVDycZgomSegoLkKYkvYxqhliWN6IlSSOKtADidMdQ7cCX1++ADryVtgFAwwrf2vlbTzk1EC0SMQLPZmaSs7DJ1DO+HahVgGJKpEhGMayil9SHX5my5LsBpHW6CfzqlquAmYqn3PnquNkTIzfuImhqhVppXdLQ4BMhqMxVxMWq/KGI65ylzdCQX0yKdlN2agbVWOTzgadW3RuG5ltEyGROV5ZM7MYNigyrF4phszxSIOTSH9Enaty4U5KoWiJSHfoVaFzdtrrnwxHdKtCyVMqipu2zXxfzGY4thwR2LmBNg9dnFuRF9lj5rPQQZu57ongoSo9qn6/3+v1z3v9Tnt42D+ugpIJPip02h2enR4PT9vHg/3uaRXqT5AgRs36VE9cFntjwaSbuvDDg4o7/f7Hw+6HNqlO49SCx7n3D3vdgj2PSsIWcV2iXXzSqX0WozTbUwxVE47EF+77zN62alDu8TCZt6AdulJwF7atOr3Ud2oN2Eu479q9o9+3Xh22YHZdgXYU+XiO449c2duNV1ZjB8ofD4ZHFFyfXyG8R+dKVODvKGNKQHuL9Hc8KQK0txpWzdpsbL+y6pt1MmDMfYQBmzDJc03GY6N/MByeHHTb73QAyK1Ho3XSHwyXoppm8IXBXUOPR5bPT1Gxf9jtvRtUM4mFMokxQVRRBDhHR0uu2OT4IsZl6sbnWOhq1zcCOUe41JwpWk1ZdDwBxhHGMZsiNDUqaZkLI8hIxifLgFvYo+zThbLMEemC2csKSLNdhsW4xj5iVP61lnVytwoVZIXGy0QpES5Dxfcu9UWB2ITX7zBmYx/dvdSM+P9l/8Sy95C5VHF/rv28IQOA38xT/CPBWKFrnnPlNeG3o94BOZSTjbVS/zWwsWp2R4SKbDaHNxE2gVH/3GE60+25OZvNTJrdAjPRE7KuQrcFjsckDfru2XDffP08KMo7fjYePRdCluvVF1NOhYoB4z6ZELE4ngnp/oeqNqGksFMTSt+h3JZB10g93P2aeXr3U+EoUYrHO+O5I/8gX/e40393ePyeRmL6hUdVoJWoTyvS0vNKrdROlCckVzeUeksjWVrLfCLZNGBNCIXp0IIL13N1dJOp01oK/zHmvuQUmyasC+d6ibNoKunVPAxjpOHBAiviJtQfMOh5FfZAtw+hyzklm5jFcDyEes2qtYAIO1stmO9sPRlOcgh5pSGksfO6YdUJnFawY71RbcfBiAxSOFe2pwK/uuKdpvwyv08N/NYfuzXr1yoPaIK2abCj/JFFtEb/2f45bX+9IhXzaUhojHNCn3CKrevdcWO9Tac4QYlyfUgfqFCt6Ye/cC3yGQ+roE0DbVut/lfjYfbIxIQcagKG5tmgimHhsZu5VvouqLk0R5YcIa44mrm7lpqrJ02w2ZT5kPQTsFjv8LIGKUORtiyQdrFeK3X1frRZAgsKXiGXtdzdB3ZYbs33drklGdxHtL9TxiVe1FqNzSDvbzTSfzpH+pbd83e6Lij5UbwtiWo9o5ENNv3pBnTeAj3rtsviWlA0o75kfED0hSjpsbMu03bNcmvD6i+jaBG41Iohk70l+kL05Yt7aqgZMtsW15yS+ZMxpXYtWQCpPXYqoJm0WyM7dd6+HN2n2BkloxL5Nhel41tc/7WD9OjQBZcyW4QvollvNbaCix8Pj/f7n1IOyIiN4ASDccIUdIQM0edJDG1/ItEVNO6DJNJfOmDvBn4csGs8RQc9AjkWEuuze9oTpImrfaqE54p+ICBgIfSSiMEAw5skgAPCVDgM+UJVoS6tJEOhDJK5KSJCDsr+BYgpi/D5M+1YCP+U3dbH/tn0+nOj++r8ZmfQ2Ez+Nk1n96zAjlicXF1R1129GKBdT0kvmLOlAZWukjwoT2gfEZcHQ5rGK5VHDaCJyroRiUrGmAKpk42mfdbZdM/+Uf+9c73Zw4/nkf/B9c8Hjdk6Y07ydcjCnmJhst4kzZEunah5ZRX3bRFHfWzoSZM4Vr5ipezV0htvExyfmHcNPYHw0FRc+WhS6AImb4y3PTEF0q8EODRJ0zodrTe2t/n25Ys3Ywm2vrv8utDBfKSsSq+mq6chaRBHqVqCNzaxvU1Bkk/KuUn5niBkAYKQsHA2hTuj+ED0b4p7Aa4PJiQBYz1I08FexGFAu18P9kR8layk9h2gT6BLFsY3tAsKyobjI5NpR/+TtfltYHeCC8PS317LpfdN3qStt2XcG+RemrN7KD0WU7lZ+rdi3UY2v+rd159nWs0w82jzVk736F+LOW/1q4OWWoT93sfLok1/uPgn
+<?php 
+set_time_limit(0);
+date_default_timezone_set('Asia/Jakarta');
+error_reporting(0);
+function get_between($string, $start, $end) {
+    $string = " ".$string;
+    $ini = strpos($string,$start);
+    if ($ini == 0) return "";
+    $ini += strlen($start);
+    $len = strpos($string,$end,$ini) - $ini;
+    return substr($string,$ini,$len);
+}
+function earn_bitfast($cok) {
+  $no = array("1","2","3","4","5");
+  foreach($no as $data1){
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, 'https://allowweb.com/bitfast/index.php/balance/addPoint');
+    curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($ch, CURLOPT_REFERER, 'https://allowweb.com/bitfast/index.php/dashboard');
+	curl_setopt($ch, CURLOPT_COOKIEJAR, $cok); 
+	curl_setopt($ch, CURLOPT_COOKIEFILE, $cok);
+    $ua = array();
+    $ua[] = "User-Agent: Mozilla/5.0 (Linux; Android 5.1; A1603 Build/LMY47I; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36";
+    curl_setopt($ch, CURLOPT_HTTPHEADER, $ua);
+    curl_setopt($ch, CURLOPT_POST, 1);
+    $data["id"] = $data1;
+    curl_setopt($ch, CURLOPT_POSTFIELDS, $data);
+    $result = curl_exec($ch);
+    curl_close($ch);
+    $json = json_decode($result, true);
+    echo "Message : ".$json["message"]." | Ballance : ".$json["pointBalance"]."\n";
+    sleep(90);
+  }
+}
+function reset_button($cok) {
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, 'https://allowweb.com/bitfast/index.php/dashboard/getDesabledButtons');
+    curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($ch, CURLOPT_REFERER, 'https://allowweb.com/bitfast/index.php/dashboard');
+	curl_setopt($ch, CURLOPT_COOKIEJAR, $cok); 
+	curl_setopt($ch, CURLOPT_COOKIEFILE, $cok);
+    $headers = array();
+    $headers[] = "X-Requested-With: XMLHttpRequest";
+    $headers[] = "User-Agent: Mozilla/5.0 (Linux; Android 5.1; A1603 Build/LMY47I; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36";
+    $headers[] = "Content-Type: application/x-www-form-urlencoded; charset=UTF-8";
+    curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
+    curl_setopt($ch, CURLOPT_POST, 1);
+    $result = curl_exec($ch);
+    curl_close($ch);
+}
+function login($email, $password) {
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, 'https://allowweb.com/bitfast/index.php/user/login');
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($ch, CURLOPT_POSTFIELDS, "email={$email}&password={$password}");
+    curl_setopt($ch, CURLOPT_POST, 1);
+    curl_setopt($ch, CURLOPT_ENCODING, 'gzip, deflate');
+    $headers = array();
+    $headers[] = 'Authority: allowweb.com';
+    $headers[] = 'Pragma: no-cache';
+    $headers[] = 'Cache-Control: no-cache';
+    $headers[] = 'Origin: https://allowweb.com';
+    $headers[] = 'Upgrade-Insecure-Requests: 1';
+    $headers[] = 'Content-Type: application/x-www-form-urlencoded';
+    $headers[] = 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36';
+    $headers[] = 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3';
+    $headers[] = 'Referer: https://allowweb.com/bitfast/index.php/user';
+	$headers[] = 'Accept: text/plain, */*; q=0.01';
+    $headers[] = 'Accept-Language: en-US,en;q=0.9,id;q=0.8';
+    curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
+    curl_setopt($ch, CURLOPT_COOKIEJAR, 'cookie-bitfast.txt');
+	curl_setopt($ch, CURLOPT_COOKIEFILE, 'cookie-bitfast.txt');
+    $result = curl_exec($ch);
+    if (curl_errno($ch)) {
+        echo 'Error:' . curl_error($ch);
+    }
+    curl_close ($ch);
+    return $result;
+}
+print"\e[0;32m
+     __ __  _____   ______  ____  _   _____________ _______     __ __ 
+  __/ // /_/  _/ | / / __ \/ __ \/ | / / ____/ ___//  _/   | __/ // /_
+ /_  _  __// //  |/ / / / / / / /  |/ / __/  \__ \ / // /| |/_  _  __/
+/_  _  __// // /|  / /_/ / /_/ / /|  / /___ ___/ // // ___ /_  _  __/ 
+ /_//_/ /___/_/ |_/_____/\____/_/ |_/_____//____/___/_/  |_|/_//_/    
+                                                                      
+ \e[0m\r\n";
+print"\e[1;34m[#INFO]\e[0m \e[1;33mPembuat Cornelius Alfredo | Support By #SaveReceh Channel \e[0m\r\n";
+print"\e[1;34m[#INFO]\e[0m \e[1;33mBot BitFast\e[0m\r\n";
+print"\e[1;34m[#INFO]\e[0m \e[1;33mJangan Lupa Senyum Hari Ini\e[0m\r\n\r\n";
+exec("termux-open-url https://t.me/joinchat/AAAAAFUgvj3E7Wy6S32uQg");
+echo 'Masukkan Email : '; 
+$email = trim(fgets(STDIN));
+exec("termux-open-url https://www.youtube.com/channel/UC2dUZ1YCv2LeKWplJdlWS3w");
+echo 'Masukkan Password : '; 
+$password = trim(fgets(STDIN)); 
+$login = login($email,$password);
+$code = get_between($login,'<h2 class="signin-title-primary">Log in to continue.</h2>
+<br />
+<div class="alert alert-danger">
+',' </div>');
+if($code == "Username or password error"){
+    exec("termux-open-url https://t.me/joinchat/AAAAAFUgvj3E7Wy6S32uQg");
+    echo"\e[1;34m[#INFO]\e[0m \e[0;31mEmail/Password Salah Bosku\e[0m\r\n";
+} else {
+system("clear");
+print"\e[1;34m[#INFO]\e[0m \e[1;33mPembuat Cornelius Alfredo | Support By #SaveReceh Channel \e[0m\r\n";
+print"\e[1;34m[#INFO]\e[0m \e[1;33mBot BitFast\e[0m\r\n";
+print"\e[1;34m[#INFO]\e[0m \e[1;33mJangan Lupa Senyum Hari Ini\e[0m\r\n\r\n";
+echo"\e[1;36m[".date('G:i:s')."]\e[0m \e[0;31mLogin Berhasil . . .\e[0m\r\n";
+$cookie = "cookie-bitfast.txt";
+while(true){
+    reset_button($cookie);
+    earn_bitfast($cookie);
+}
+} ?>
